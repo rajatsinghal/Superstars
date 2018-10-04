@@ -1,0 +1,4 @@
+{
+    "db": "Superstars-db",
+    "jwt_private_key": "Superstars-jwt_private_key"
+}

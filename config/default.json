@@ -1,0 +1,4 @@
+{
+    "db": "mongodb://localhost/superstars",
+    "jwt_private_key": "xxx"
+}
